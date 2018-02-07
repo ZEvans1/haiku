@@ -1,4 +1,4 @@
-var Haiku = require('./../js/haiku.js').haikuModule;
+import { Haiku } from './../js/haiku.js';
 
 describe('Haiku', function () {
 
