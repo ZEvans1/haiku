@@ -10,7 +10,7 @@ module.exports = function(config) {
 
     // frameworks to use
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
-    frameworks: ['jasmine', 'browserify'],
+    frameworks: ['jquery-3.2.1', 'jasmine', 'browserify'],
 
 
     // list of files / patterns to load in the browser
